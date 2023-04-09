@@ -1,2 +1,2 @@
-# Created function Print
+# Created function Print.
 print('Hello world!)))')
